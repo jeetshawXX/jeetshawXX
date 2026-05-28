@@ -1,20 +1,18 @@
 name: Metrics
 
 on:
-workflow_dispatch:
+  workflow_dispatch:
 
 jobs:
-github-metrics:
-runs-on: ubuntu-latest
+  github-metrics:
+    runs-on: ubuntu-latest
 
-```
-permissions:
-  contents: write
+    permissions:
+      contents: write
 
-steps:
-  - uses: lowlighter/metrics@latest
-    with:
-      filename: github-metrics.svg
-      token: ${{ secrets.METRICS_TOKEN }}
-      user: jeetshawXX
-```
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: jeetshawXX
