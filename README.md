@@ -1,15 +1,12 @@
-````md
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,100:161b22&text=Jeet%20Shaw&fontColor=58a6ff&fontSize=60&fontAlignY=38&animation=fadeIn"/>
-</p>
+# Hi 👋, I'm Jeet Shaw
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Backend+Engineering;Distributed+Systems;AI+Infrastructure;Forward+Deployed+Engineering"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Engineering;Distributed+Systems;AI+Infrastructure;Forward+Deployed+Engineering" />
 </p>
 
 ---
 
-# 💫 About Me
+## 🚀 About Me
 
 ```cpp
 class JeetShaw {
@@ -19,16 +16,16 @@ public:
     string role =
         "Backend & AI Systems Engineer";
 
-    vector<string> interests = {
+    vector<string> focusAreas = {
 
         "Distributed Systems",
-        "AI Infrastructure",
         "Backend Engineering",
+        "AI Infrastructure",
         "LLM Systems",
         "Forward Deployed Engineering"
     };
 
-    vector<string> building = {
+    vector<string> currentProjects = {
 
         "Reliability-Aware RAG",
         "Distributed KV Store",
@@ -36,20 +33,11 @@ public:
         "Developer Tooling"
     };
 };
-````
+```
 
----
-
-# ⚡ Engineering Interests
-
-* Distributed Systems
-* Backend Engineering
-* AI Infrastructure
-* System Design
-* Reliability Engineering
-* Performance Optimization
-* Developer Tooling
-* LLM Systems
+* Computer Science student focused on scalable backend systems and AI infrastructure.
+* Interested in distributed architectures, reliability engineering, and system design.
+* Building projects around AI engineering, high-performance systems, and developer tooling.
 
 ---
 
@@ -58,46 +46,46 @@ public:
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts" />
 </p>
 
 ### Backend & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,supabase,firebase,docker"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,docker,supabase,firebase" />
 </p>
 
 ### AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,postman,bash"/>
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,postman,bash" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🔹 Reliability-Aware RAG System
+## 🔹 Reliability-Aware RAG System
 
 Hallucination-aware retrieval pipeline with uncertainty estimation and reliability scoring.
 
-### 🔹 Failure-Aware Distributed KV Store
+## 🔹 Failure-Aware Distributed KV Store
 
 Distributed key-value store with heartbeat-based failure detection and quorum replication.
 
-### 🔹 LSM Performance & Incident Explainer
+## 🔹 LSM Performance & Incident Explainer
 
-Visualization and debugging platform for LSM compaction/write amplification behavior.
+Visualization platform for compaction analysis and write amplification debugging.
 
-### 🔹 AI Content Filtering Platform
+## 🔹 AI Content Filtering Platform
 
-Semantic filtering system for toxicity, ragebait, and content categorization.
+Semantic filtering system for toxicity detection, ragebait filtering, and content categorization.
 
 ---
 
@@ -129,14 +117,6 @@ Semantic filtering system for toxicity, ragebait, and content categorization.
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jeetshawXX/jeetshawXX/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
 # 🧠 Currently Exploring
 
 * Reliability-aware AI systems
@@ -148,9 +128,9 @@ Semantic filtering system for toxicity, ragebait, and content categorization.
 
 ---
 
-# 🌐 Connect
+# 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
 
 <a href="https://github.com/jeetshawXX">
 <img src="https://skillicons.dev/icons?i=github"/>
@@ -167,4 +147,3 @@ Semantic filtering system for toxicity, ragebait, and content categorization.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jeetshawXX&style=flat-square&color=58A6FF"/>
 </p>
-```
