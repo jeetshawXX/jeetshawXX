@@ -1,149 +1,21 @@
-# Hi 👋, I'm Jeet Shaw
+# 💫 About Me:
+🔭 I’m currently building **Reliability-Aware RAG Systems, Distributed KV Stores, AI Infrastructure Platforms, and Developer Tooling**<br><br>🤝 I’m looking to collaborate on **Backend Engineering, Distributed Systems, Forward Deployed Engineering, AI Platforms, and Open Source Infrastructure**<br><br>🛠️ I’m looking for help with **Scalable AI Infrastructure, Reliability Engineering, System Design, and Production-Grade Distributed Architectures**<br><br>🌱 I’m currently learning **Advanced Distributed Systems, Forward Deployed Engineering, LLM Infrastructure, AI Observability, and High-Performance Backend Systems**<br><br>💬 Ask me about **Backend Engineering, System Design, Distributed Systems, AI Infrastructure, Reliability Engineering, and Forward Deployed Engineering**<br><br>⚡ Fun fact: **I enjoy debugging distributed systems failures more than fixing frontend  issues**<br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Engineering;Distributed+Systems;AI+Infrastructure;Forward+Deployed+Engineering" />
-</p>
 
----
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeetshawxx@gmail.com) 
 
-## 🚀 About Me
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=jeetshawXX&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=jeetshawXX&theme=aura_dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jeetshawXX&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-```cpp
-class JeetShaw {
-
-public:
-
-    string role =
-        "Backend & AI Systems Engineer";
-
-    vector<string> focusAreas = {
-
-        "Distributed Systems",
-        "Backend Engineering",
-        "AI Infrastructure",
-        "LLM Systems",
-        "Forward Deployed Engineering"
-    };
-
-    vector<string> currentProjects = {
-
-        "Reliability-Aware RAG",
-        "Distributed KV Store",
-        "AI Content Filtering Platform",
-        "Developer Tooling"
-    };
-};
-```
-
-* Computer Science student focused on scalable backend systems and AI infrastructure.
-* Interested in distributed architectures, reliability engineering, and system design.
-* Building projects around AI engineering, high-performance systems, and developer tooling.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jeetshawXX&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://komarev.com/ghpvc/?username=jeetshawXX&icon=6&color=0)](https://visitcount.itsvg.in)
 
-# 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts" />
-</p>
-
-### Backend & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,docker,supabase,firebase" />
-</p>
-
-### AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,postman,bash" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🔹 Reliability-Aware RAG System
-
-Hallucination-aware retrieval pipeline with uncertainty estimation and reliability scoring.
-
-## 🔹 Failure-Aware Distributed KV Store
-
-Distributed key-value store with heartbeat-based failure detection and quorum replication.
-
-## 🔹 LSM Performance & Incident Explainer
-
-Visualization platform for compaction analysis and write amplification debugging.
-
-## 🔹 AI Content Filtering Platform
-
-Semantic filtering system for toxicity detection, ragebait filtering, and content categorization.
-
----
-
-# 📊 GitHub Metrics
-
-<p align="center">
-  <img src="./github-metrics.svg"/>
-</p>
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jeetshawXX&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=jeetshawXX&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
----
-
-# 📉 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeetshawXX&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff"/>
-</p>
-
----
-
-# 🧠 Currently Exploring
-
-* Reliability-aware AI systems
-* Long-context memory systems
-* RAG optimization
-* Distributed infrastructure
-* AI observability
-* Agent reliability
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/jeetshawXX">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://leetcode.com/u/__JS__/">
-<img src="https://cdn.simpleicons.org/leetcode"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jeetshawXX&style=flat-square&color=58A6FF"/>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
