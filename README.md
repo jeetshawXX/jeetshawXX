@@ -1,5 +1,4 @@
-# 💫
-<br> Backend Engineering, System Design, Distributed Systems, AI Infrastructure, Reliability Engineering, and Forward Deployed Engineering<br><br>
+## Backend Engineering, System Design, Distributed Systems, AI Infrastructure, Reliability Engineering, and Forward Deployed Engineering
 
 
 ## 🌐 Socials:
