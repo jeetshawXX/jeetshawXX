@@ -6,9 +6,10 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://jeetshaw.vercel.app/)
 &nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/u/__JS__/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://jeetshaw.vercel.app/)
+&nbsp;&nbsp;&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/__JS__/)
+[![LeetCode Rating](https://img.shields.io/badge/dynamic/json?label=Rating&query=%24.contestRating&url=https%3A%2F%2Fleetpulse-api.vercel.app%2Fapi%2Fleetcode%2Fcontest%2F__JS__&color=FFA116&style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/__JS__/)
 
 <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fyour-api-endpoint-here&style=flat-square" />
 
