@@ -4,13 +4,13 @@
 
 ### Backend Engineer • Distributed Systems • AI Infrastructure • Reliability Engineering
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square\&logo=vercel\&logoColor=white)](https://jeetshaw.vercel.app/)
-   
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square\&logo=leetcode\&logoColor=white)](https://leetcode.com/u/__JS__/)
-   
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:jeetshawxx@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=jeetshawXX\&label=Profile%20Views\&color=0e75b6\&style=flat-square)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://jeetshaw.vercel.app/)
+&nbsp;&nbsp;&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/__JS__/)
+&nbsp;&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jeetshawxx@gmail.com)
+&nbsp;&nbsp;&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=jeetshawXX&label=Profile%20Views&color=0e75b6&style=flat-square)
 
 </div>
 
