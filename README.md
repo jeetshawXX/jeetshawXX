@@ -2,9 +2,9 @@
 
 # Hi, I'm Jeet Shaw 👋
 
-### Backend Engineer • Distributed Systems • AI Infrastructure • Reliability Engineering
-
 </div>
+
+### Backend Engineer • Distributed Systems • AI Infrastructure • Reliability Engineering
 
 I build **scalable backend systems, distributed architectures, and AI infrastructure** with a focus on performance, reliability, and developer experience.
 
