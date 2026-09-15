@@ -1,14 +1,86 @@
-### Backend Engineering, System Design, Distributed Systems, AI Infrastructure, Reliability Engineering, and Forward Deployed Engineering
+# Hi, I'm Jeet Shaw 👋
 
+### Backend Engineer • Distributed Systems • AI Infrastructure • Reliability Engineering
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeetshawxx@gmail.com) 
+I build **scalable backend systems, distributed architectures, and AI infrastructure** with a focus on performance, reliability, and developer experience.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=jeetshawXX&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=jeetshawXX&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jeetshawXX&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm particularly interested in:
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+* ⚙️ **Backend Engineering & System Design**
+* 🌐 **Distributed Systems & Scalable Architectures**
+* 🤖 **AI/ML Infrastructure & Intelligent Systems**
+* 🛡️ **Reliability, Performance & Observability**
+* 🚀 **Forward Deployed Engineering & Production Systems**
+
+I enjoy working on challenging engineering problems where **software, infrastructure, and real-world constraints meet**.
+
+---
+
+## 🌐 Connect
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:jeetshawxx@gmail.com)
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & APIs
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=c%2B%2B\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square\&logo=javascript\&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square\&logo=typescript\&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square\&logo=graphql\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+
+### Backend & Frameworks
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square\&logo=fastapi)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square\&logo=tailwind-css\&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square\&logo=three.js\&logoColor=white)
+
+### Databases & Data
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square\&logo=mongodb\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square\&logo=redis\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square\&logo=supabase\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square\&logo=Prisma\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square\&logo=firebase\&logoColor=white)
+
+### AI / Machine Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=TensorFlow\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=PyTorch\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square\&logo=Keras\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square\&logo=anaconda\&logoColor=white)
+
+### Cloud, Infrastructure & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square\&logo=docker\&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square\&logo=Cloudflare\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=flat-square\&logo=netlify\&logoColor=00C7B7)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square\&logo=render\&logoColor=white)
+
+### Engineering Tools
+
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square\&logo=git\&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-181717?style=flat-square\&logo=gitlab\&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=jeetshawXX&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=jeetshawXX&theme=chartreuse-dark&hide_border=false" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jeetshawXX&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165" />
+</p>
+
+---
+
+### Building systems that scale. Learning continuously. Shipping relentlessly. 🚀
