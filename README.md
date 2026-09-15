@@ -12,6 +12,8 @@
 &nbsp;&nbsp;&nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=jeetshawXX&label=Profile%20Views&color=0e75b6&style=flat-square)
 
+</div>
+
 
 
 I build **scalable backend systems, distributed architectures, and AI infrastructure** with a focus on performance, reliability, and developer experience.
