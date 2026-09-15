@@ -88,9 +88,3 @@ I enjoy working on challenging engineering problems where **software, infrastruc
 </p>
 
 ---
-
-<div align="center">
-
-### Building systems that scale. Learning continuously. Shipping relentlessly. 🚀
-
-</div>
