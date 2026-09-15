@@ -6,7 +6,11 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://jeetshaw.vercel.app/)
 &nbsp;&nbsp;&nbsp;
-[![LeetCode Rating](https://img.shields.io/badge/dynamic/json?label=LeetCode%20Rating\&query=%24.rating\&url=https%3A%2F%2Fleetcode-api-faisalshohag.vercel.app%2F%3Fusername%3D__JS__\&color=FFA116\&style=flat-square\&logo=leetcode\&logoColor=white)](https://leetcode.com/u/__JS__/)
+<a href="https://leetcode.com/u/__JS__/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+</a>
+
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fyour-api-endpoint-here&style=flat-square" />
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jeetshawxx@gmail.com)
 &nbsp;&nbsp;&nbsp;
