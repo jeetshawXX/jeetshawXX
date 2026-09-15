@@ -10,6 +10,10 @@
    
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:jeetshawxx@gmail.com)
 
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=jeetshawXX\&label=Profile%20Views\&color=0e75b6\&style=flat-square)
+
 </div>
 
 
