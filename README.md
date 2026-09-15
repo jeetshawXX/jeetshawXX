@@ -2,9 +2,13 @@
 
 # Hi, I'm Jeet Shaw 👋
 
-</div>
-
 ### Backend Engineer • Distributed Systems • AI Infrastructure • Reliability Engineering
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square\&logo=vercel\&logoColor=white)](https://jeetshaw.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square\&logo=leetcode\&logoColor=white)](https://leetcode.com/u/__JS__/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:jeetshawxx@gmail.com)
+
+</div>
 
 I build **scalable backend systems, distributed architectures, and AI infrastructure** with a focus on performance, reliability, and developer experience.
 
@@ -17,12 +21,6 @@ I'm particularly interested in:
 * 🚀 **Forward Deployed Engineering & Production Systems**
 
 I enjoy working on challenging engineering problems where **software, infrastructure, and real-world constraints meet**.
-
----
-
-## 🌐 Connect
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:jeetshawxx@gmail.com)
 
 ---
 
@@ -87,4 +85,8 @@ I enjoy working on challenging engineering problems where **software, infrastruc
 
 ---
 
+<div align="center">
+
 ### Building systems that scale. Learning continuously. Shipping relentlessly. 🚀
+
+</div>
