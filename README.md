@@ -10,14 +10,14 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://jeetshaw.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" height="28" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" height="30" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:jeetshawxx@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="28" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="30" />
   </a>
   &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=jeetshawXX&label=Profile%20Views&color=0e75b6&style=flat-square" height="28" />
+  <img src="https://komarev.com/ghpvc/?username=jeetshawXX&label=Profile%20Views&color=0e75b6&style=flat-square" height="29" />
 </p>
 
 </div>
