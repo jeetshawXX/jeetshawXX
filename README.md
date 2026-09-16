@@ -27,11 +27,11 @@ I build **scalable backend systems, distributed architectures, and AI infrastruc
 
 I'm particularly interested in:
 
-* ⚙️ **Backend Engineering & System Design**
+* 🚀 **Forward Deployed Engineering & Production Systems**
 * 🌐 **Distributed Systems & Scalable Architectures**
+* ⚙️ **Backend Engineering & System Design**
 * 🤖 **AI/ML Infrastructure & Intelligent Systems**
 * 🛡️ **Reliability, Performance & Observability**
-* 🚀 **Forward Deployed Engineering & Production Systems**
 
 ---
 
@@ -66,7 +66,7 @@ I'm particularly interested in:
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-### AI / Machine Learning
+### AI - Machine Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
