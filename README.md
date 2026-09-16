@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/__JS__/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LeetCode-2249%20Rating-ffcb00?style=flat-square&logo=leetcode&logoColor=black" height="28" />
+    <img src="https://img.shields.io/badge/LeetCode-2249%20Rating-ffa204?style=flat-square&logo=leetcode&logoColor=black" height="28" />
   </a>
   &nbsp;&nbsp;
   <a href="https://jeetshaw.vercel.app/" target="_blank" rel="noopener noreferrer">
