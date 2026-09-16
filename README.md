@@ -36,7 +36,7 @@ I'm particularly interested in:
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
