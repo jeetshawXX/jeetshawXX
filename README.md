@@ -91,7 +91,7 @@ I'm particularly interested in:
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=jeetshawXX&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false" height="165" />
