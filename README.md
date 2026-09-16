@@ -6,38 +6,29 @@
 
 <p align="center">
   <a href="https://jeetshaw.vercel.app/">
-    <img
-      src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"
-      width="125"
-      height="30"
-    />
-  </a>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"
+         width="135" height="30" />
+  </a>&nbsp;&nbsp;
 
   <a href="https://leetcode.com/u/__JS__/">
-    <img
-      src="https://img.shields.io/badge/LeetCode-2249%20RATING-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
-      width="150"
-      height="30"
-    />
-  </a>
+    <img src="https://img.shields.io/badge/LeetCode-2249%20RATING-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
+         width="135" height="30" />
+  </a>&nbsp;&nbsp;
 
   <a href="mailto:jeetshawxx@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      width="105"
-      height="30"
-    />
-  </a>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+         width="135" height="30" />
+  </a>&nbsp;&nbsp;
 
-  <img
-    src="https://komarev.com/ghpvc/?username=jeetshawXX&label=Profile%20Views&color=0e75b6&style=for-the-badge"
-    width="145"
-    height="30"
-  />
+  <img src="https://komarev.com/ghpvc/?username=jeetshawXX&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+       width="135" height="30" />
 </p>
 
 </div>
+
+
 I build **scalable backend systems, distributed architectures, and AI infrastructure** with a focus on performance, reliability, and developer experience.
+
 
 I'm particularly interested in:
 
