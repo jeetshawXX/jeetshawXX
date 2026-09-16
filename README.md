@@ -22,6 +22,7 @@
 
 </div>
 
+---
 
 I build **scalable backend systems, distributed architectures, and AI infrastructure** with a focus on performance, reliability, and developer experience.
 
