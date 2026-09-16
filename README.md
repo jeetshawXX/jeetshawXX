@@ -1,27 +1,23 @@
 <div align="center">
 
-# Hi, I'm Jeet Shaw 👋
-
-### Backend Engineer • Distributed Systems • AI Infrastructure • Reliability Engineering
-
 <p align="center">
   <a href="https://jeetshaw.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"
-         width="110" height="28" />
+         height="28" />
   </a>&nbsp;&nbsp;
 
   <a href="https://leetcode.com/u/__JS__/">
     <img src="https://img.shields.io/badge/LeetCode-2249%20RATING-FFA116?style=flat-square&logo=leetcode&logoColor=white"
-         width="145" height="28" />
+         height="28" />
   </a>&nbsp;&nbsp;
 
   <a href="mailto:jeetshawxx@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"
-         width="110" height="28" />
+         height="28" />
   </a>&nbsp;&nbsp;
 
   <img src="https://komarev.com/ghpvc/?username=jeetshawXX&label=Profile%20Views&color=0e75b6&style=flat-square"
-       width="145" height="28" />
+       height="28" />
 </p>
 
 </div>
