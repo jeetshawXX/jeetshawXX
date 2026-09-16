@@ -1,31 +1,28 @@
 <div align="center">
 
+# Hi, I'm Jeet Shaw 👋
+
+### Backend Engineer • Distributed Systems • AI Infrastructure • Reliability Engineering
+
 <p align="center">
   <a href="https://jeetshaw.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"
-         height="28" />
-  </a>&nbsp;&nbsp;
-
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" height="28" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://leetcode.com/u/__JS__/">
-    <img src="https://img.shields.io/badge/LeetCode-2249%20RATING-FFA116?style=flat-square&logo=leetcode&logoColor=white"
-         height="28" />
-  </a>&nbsp;&nbsp;
-
+    <img src="https://img.shields.io/badge/LeetCode-2249%20RATING-FFA116?style=flat-square&logo=leetcode&logoColor=white" height="28" />
+  </a>
+  &nbsp;&nbsp;
   <a href="mailto:jeetshawxx@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"
-         height="28" />
-  </a>&nbsp;&nbsp;
-
-  <img src="https://komarev.com/ghpvc/?username=jeetshawXX&label=Profile%20Views&color=0e75b6&style=flat-square"
-       height="28" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="28" />
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=jeetshawXX&label=Profile%20Views&color=0e75b6&style=flat-square" height="28" />
 </p>
 
 </div>
 
-
-
 I build **scalable backend systems, distributed architectures, and AI infrastructure** with a focus on performance, reliability, and developer experience.
-
 
 I'm particularly interested in:
 
@@ -58,7 +55,7 @@ I'm particularly interested in:
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square\&logo=three.js\&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white)
 
 ### Databases
 
@@ -82,16 +79,15 @@ I'm particularly interested in:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=flat-square\&logo=netlify\&logoColor=00C7B7)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=flat-square&logo=netlify&logoColor=00C7B7)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-181717?style=flat-square\&logo=gitlab\&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-181717?style=flat-square&logo=gitlab&logoColor=white)
 
 ---
-
 
 # 📊 GitHub Stats
 
