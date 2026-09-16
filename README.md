@@ -10,7 +10,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://jeetshaw.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" height="32" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:jeetshawxx@gmail.com" target="_blank" rel="noopener noreferrer">
