@@ -5,15 +5,15 @@
 ### Backend Engineer • Distributed Systems • AI Infrastructure • Reliability Engineering
 
 <p align="center">
-  <a href="https://leetcode.com/u/__JS__/">
+  <a href="https://leetcode.com/u/__JS__/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LeetCode-2249%20RATING-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="28" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://jeetshaw.vercel.app/">
+  <a href="https://jeetshaw.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" height="28" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:jeetshawxx@gmail.com">
+  <a href="mailto:jeetshawxx@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="28" />
   </a>
   &nbsp;&nbsp;
@@ -21,6 +21,7 @@
 </p>
 
 </div>
+
 
 I build **scalable backend systems, distributed architectures, and AI infrastructure** with a focus on performance, reliability, and developer experience.
 
