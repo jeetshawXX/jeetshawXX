@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="30" />
   </a>
   &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=jeetshawXX&label=Profile%20Views&color=#54ccff&style=flat-square" height="29" />
+  <img src="https://komarev.com/ghpvc/?username=jeetshawXX&label=Profile%20Views&color=54ccff&style=flat-square" height="29" />
 </p>
 
 </div>
