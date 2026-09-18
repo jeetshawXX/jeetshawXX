@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Jeet Shaw 👋
+# Hi, I'm Jeet Shaw  👋
 
 ### Backend Engineer • Distributed Systems • AI Infrastructure • Reliability Engineering
 
